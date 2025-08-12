@@ -63,6 +63,9 @@ The application uses Haar Cascade classifiers to detect faces and eyes:
 5. Draws bounding boxes around detected faces and eyes
 6. Limits eye detection to maximum 2 eyes per face
 
+## Screenshot
+<img width="640" height="640" alt="Result" src="https://github.com/user-attachments/assets/902f90d6-0377-44a6-adae-a48f7c4f4bd8" />
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
