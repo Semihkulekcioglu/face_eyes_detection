@@ -20,8 +20,8 @@ OpenCV ve Haar Cascade sınıflandırıcıları kullanarak gerçek zamanlı yüz
 
 1. Depoyu klonlayın:
 ```bash
-git clone https://github.com/yourusername/face-eye-detection.git
-cd face-eye-detection
+git clone https://github.com/Semihkulekcioglu/face_eyes_detection.git
+cd face_eyes_detection
 ```
 
 2. Gerekli paketleri yükleyin:
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### Webcam Modu
 ```bash
-python yuz_goz_detection.py
+python face_eyes_detection.py
 ```
 
 ### Video Dosyası Modu
@@ -48,7 +48,7 @@ cap = cv2.VideoCapture("video1.mp4")
 
 ## Proje Yapısı
 
-- `yuz_goz_detection.py` - Ana uygulama dosyası
+- `face_eyes_detection.py` - Ana uygulama dosyası
 - `requirements.txt` - Python bağımlılıkları
 - `video1.mp4`, `video2.mp4`, `video3.mp4` - Test için örnek video dosyaları
 
