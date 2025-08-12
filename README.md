@@ -1,4 +1,4 @@
-# Face and Eye Detection Project
+# Face and Eyes Detection Project
 
 > **🇹🇷 Türkçe versiyon için [README_TR.md](README_TR.md) dosyasına bakın**
 A real-time face and eye detection application using OpenCV and Haar Cascade classifiers.
