@@ -62,6 +62,9 @@ Uygulama yüz ve göz tespiti için Haar Cascade sınıflandırıcılarını kul
 5. Tespit edilen yüz ve gözler etrafında sınırlayıcı kutular çizer
 6. Yüz başına maksimum 2 göz tespiti ile sınırlar
 
+## Screenshot
+<img width="640" height="640" alt="Result" src="https://github.com/user-attachments/assets/902f90d6-0377-44a6-adae-a48f7c4f4bd8" />
+
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
