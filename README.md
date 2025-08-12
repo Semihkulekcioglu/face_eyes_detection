@@ -1,5 +1,6 @@
 # Face and Eye Detection Project
 
+> **🇹🇷 Türkçe versiyon için [README_TR.md](README_TR.md) dosyasına bakın**
 A real-time face and eye detection application using OpenCV and Haar Cascade classifiers.
 
 ## Features
@@ -20,8 +21,8 @@ A real-time face and eye detection application using OpenCV and Haar Cascade cla
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/face-eye-detection.git
-cd face-eye-detection
+git clone https://github.com/Semihkulekcioglu/face_eyes_detection.git
+cd face_eyes_detection
 ```
 
 2. Install required packages:
@@ -33,7 +34,7 @@ pip install -r requirements.txt
 
 ### Webcam Mode
 ```bash
-python yuz_goz_detection.py
+python face_eyes_detection.py
 ```
 
 ### Video File Mode
@@ -48,7 +49,7 @@ cap = cv2.VideoCapture("video1.mp4")
 
 ## Project Structure
 
-- `yuz_goz_detection.py` - Main application file
+- `face_eyes_detection.py.py` - Main application file
 - `requirements.txt` - Python dependencies
 - `video1.mp4`, `video2.mp4`, `video3.mp4` - Sample video files for testing
 
